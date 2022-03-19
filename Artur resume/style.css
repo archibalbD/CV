@@ -148,11 +148,3 @@ textarea {
   outline: none;
   font-family: inherit;
 }
-
-@media (max-widh: 500px) {
-  .avatar {
-    font-size: 1.5rem;
-    padding: 10px;
-    align-items: center;
-  }
-}
